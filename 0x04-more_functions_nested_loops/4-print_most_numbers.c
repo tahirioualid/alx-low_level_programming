@@ -2,6 +2,7 @@
 
 /**
 *print_most_numbers - prints
+* @n: number of times
 *Return: void
 */
 
